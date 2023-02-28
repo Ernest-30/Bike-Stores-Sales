@@ -1,3 +1,5 @@
+--Joining the tables for the analysis and Dashboard 
+
 USE BikeStores
 SELECT	ord.order_id, ord.order_date, pob.brand_name, pod.product_name, poc.category_name, 
 		pod.model_year, pod.product_id, odt.quantity, odt.list_price, SUM (odt.list_price * odt.quantity) AS Revenue,
