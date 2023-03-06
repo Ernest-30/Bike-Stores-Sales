@@ -16,6 +16,10 @@ A total number of 1,615 orders was received from a total of 1,445 customers who 
 You can view the overall Dashboard [Here](https://public.tableau.com/app/profile/ernest.obi/viz/BikeStoresOverall_Dashboard/OverallDashboard#1)
 
 
+![image](https://user-images.githubusercontent.com/123366282/223247551-1c39df12-ef22-4983-84ff-05b9ac633fa2.png)
+
+
+
 
 # FINDINGS
 
