@@ -11,6 +11,12 @@ After joining the tables and running the analysis, I visualized the results by c
 A total of 7,078 bikes were sold, total revenue generated was $8,578,988.88 and total discount given is 497.57 within the period of 2016 - 2018. 
 A total number of 1,615 orders was received from a total of 1,445 customers who patronized the business within that period.
 
+# VISUALIZATION
+
+You can view the overall Dashboard [Here](https://public.tableau.com/app/profile/ernest.obi/viz/BikeStoresOverall_Dashboard/OverallDashboard#1)
+
+
+
 # FINDINGS
 
 1) Revenue peaked in 2017 with a total of $3,845,515.02 from $2,709,484.47 of 2016 but dropped significantly to $2,023,989.39 in 2018. 
