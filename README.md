@@ -11,6 +11,9 @@ After joining the tables and running the analysis, I visualized the results by c
 A total of 7,078 bikes were sold, total revenue generated was $8,578,988.88 and total discount given is 497.57 within the period of 2016 - 2018. 
 A total number of 1,615 orders was received from a total of 1,445 customers who patronized the business within that period.
 
+You can view the SQL Analysis [Here](https://github.com/Ernest-30/Bike-Stores-Sales/blob/main/Bikestores_Analysis.sql)
+
+
 # VISUALIZATION
 
 You can view the overall Dashboard [Here](https://public.tableau.com/app/profile/ernest.obi/viz/BikeStoresOverall_Dashboard/OverallDashboard#1)
@@ -40,6 +43,3 @@ You can view the overall Dashboard [Here](https://public.tableau.com/app/profile
 7) The top performing city is Mount Vernon with a total revenue of $117,010.21 and total of 84 bikes sold
 
 8) The top customer in terms of revenue generation is Pamelia Newman with a total revenue of $37,801.84 generated between 2016 - 2018
-
-
-
